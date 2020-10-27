@@ -1,0 +1,16 @@
+---
+title: How To Tie A Handcuff Knot
+author: A. Andiron
+subtitle: A pornographic love story.
+rights: Edition 1. © 2018 A. Andiron, CC BY-NC. Email me to be added to the mailing list! a.andiron@protonmail.com. Fear not the spam. This list isn't some vast database of contacts, it's more like a friends-and-family thing. Besides, my productivity is so low, you'll probably wish to see MORE emails from me, not fewer. Consider buying another story! Just search for A. Andiron on the Kindle Store. If everyone reading this right now paid $3, I would have like $9. But it would only take 10k people paying $3 for me to make a living doing this. (Yes I could live on that.) There probably ARE 10,000 people out of the 7 billion in the world who would be willing to pay that. It could be you! And If you support my creative project, I'll support yours! send me your link.
+description: A woman and a man. Lovers once, many years ago, have long since moved on to being old friends. Until they venture out to a party together and become lost in a dreamy world of boundary-pushing performance sex and overzealous cocks.  They wander in the midst of flying jizz and asphyxiating social snares, until they discover they are tied together with more than a cheap piece of clothesline - they are tied together with love.
+cover-image: ./cover/handcuff-standing-book-template_sqcrop.png
+documentclass:
+    - article
+header-includes:
+    - \usepackage{hyperref}
+    - \renewcommand*{\titlepagestyle}{empty}
+#    - \usepackage[margin=0.8in]{geometry}
+# above line give Word-like wide text
+...
+
