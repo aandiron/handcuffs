@@ -1,5 +1,5 @@
 README.md
-Last modified: Mon Oct 26, 2020  10:17PM
+Last modified: Thu Oct 29, 2020  05:52PM
 
 # How To Tie A Handcuff Knot — A pornographic love story.
 * By A. Andiron
@@ -13,7 +13,6 @@ Last modified: Mon Oct 26, 2020  10:17PM
 ## Compilation notes:
 * Compiled using pandoc-ebook-template. For instructions see:
 	* https://github.com/evangoer/pandoc-ebook-template
-* Note: pdf/latex version didn't compile last time I tried it, but I wasn't really trying to and it could easily be that I just don't have all the necessary latex dependencies installed.
 * In cover directory there is an .md file describing the different files.
 
 ## Credits:
